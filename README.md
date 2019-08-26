@@ -25,4 +25,4 @@ Exit game button doesn’t work
 
 ![Main Menu](https://static.jam.vg/raw/097/2/z/1258a.jpg)
 
-![In Game]https://static.jam.vg/raw/097/2/z/1258f.jpg)
+![In Game](https://static.jam.vg/raw/097/2/z/1258f.jpg)
